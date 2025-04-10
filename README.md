@@ -1,4 +1,4 @@
-# Project JOB PACK Processing
+# Project MRICH JOB PACK Processing
 
 # older qb-core  
 qb-core/shared/item.lua
@@ -31,4 +31,3 @@ qb-inventory > html > images
 * [qb-target](https://github.com/BerkieBb/qb-target)
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
-* [Meth Lab IPL](https://github.com/Bob74/bob74_ipl/tree/master/dlc_tuner)
